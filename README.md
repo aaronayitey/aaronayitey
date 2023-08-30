@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2 align="center"> I'm Aaron Ayitey</h2>
+<h4 align="center">A passionate GIS data analyst and data scientist; skilled in Python, SQL, Tableau, Machine learning, GIS and Remote Sensing</h4>
+<br>
+
 <!--
 **aaronayitey/aaronayitey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
