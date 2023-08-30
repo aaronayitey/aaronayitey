@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h2 align="center"> I'm Aaron Ayitey</h2>
-<h4 align="center">A passionate GIS data analyst and data scientist; skilled in Python, SQL, Tableau, Machine learning, GIS and Remote Sensing</h4>
+<h2I'm Aaron Ayitey</h2>
+<h4>A passionate GIS data analyst and data scientist; skilled in Python, SQL, Tableau, Machine learning, GIS and Remote Sensing</h4>
 <br>
 
 <!--
