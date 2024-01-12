@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <h2>I'm Aaron Ayitey</h2>
-<h4>A passionate GIS data analyst and data scientist; skilled in Python, SQL, Tableau, Machine learning, GIS and Remote Sensing</h4>
+<h4>A passionate GIS data analyst and data scientist; skilled in Python, SQL, Power BI, Machine learning, GIS and Remote Sensing</h4>
 <br>
 
-📫 How to reach me? Hey, send an email to aaronayitey@gmail.com
+📫 How to reach me? Hey, send an email to aaronayitey1@gmail.com
 
 
 <!--
